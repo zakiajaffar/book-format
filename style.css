@@ -7,17 +7,20 @@ span{
 
 }
 .span-1{
-	display: flex;
+	/*display: flex;*/
 }
 
 
-.logo{
+/*.logo{
 	height: 20px;
 	width: 20px;
+}*/
+i{
+	color: orange;
 }
 .div{
 	border: 1.5px solid grey;
-	padding: 5px;
+	padding: 10px;
 	border-radius: 3px;
 }
 .card-body{
@@ -34,35 +37,43 @@ span{
 
 p{
 	font-size: 13px;
-	margin: 2px;
+	/*margin: 2px;*/
+	margin: 0;
+
 }
 .para{
 	font-size: 12px;
 	font-weight: bold;
-	margin-bottom: 2px;
+	/*margin-bottom: 2px;*/
+	margin: 0;
+
 	color: black;
 }
 .hard{
-	font-size: 16px;
+	/*font-size: 16px;*/
 	font-weight: bold;
-	margin-bottom: 2px;
+	margin: 0;
+	/*margin-bottom: 0px;*/
 	color: black;
 }
 .div-cover{
 	border:1.5px solid orange;
 	border-radius: 3px;
 	background-color: #fef8f2;
-	padding: 5px;
+	padding: 10px;
 }
 .grey{
 	color: grey;
 	font-weight: bold;
-	margin-bottom: 2px;
+	/*margin-bottom: 2px;*/
+	margin: 0;
 }
 .red{
 	color: #b53322;
 	font-weight: bold;
-	margin-bottom: 0;
+	/*margin-bottom: 0;*/
+	margin: 0;
+
 }
 .red-color{
 	color: #b53322;
@@ -70,7 +81,9 @@ p{
 }
 .color-blue{
 	color: #0b66c2;
-	margin-bottom: 2px;
+	/*margin-bottom: 2px;	*/
+	margin: 0;
+
 	font-weight: bold;
 }
 span{
